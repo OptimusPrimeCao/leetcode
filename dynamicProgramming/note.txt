@@ -1,0 +1,1 @@
+MaximalRectangle 动态规划加利用栈来遍历的经典题目，经典棋盘类问题.用 while但不递增的方式代替while的重叠

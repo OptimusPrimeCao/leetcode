@@ -1,0 +1,4 @@
+1.MaximumPathSum用递归，但递归返回值并不是最后需要的值。返回值是一种中间状态，最后需要的值在函数中
+	通过全局变量这种方式确定。
+	
+2.searchTree的主要思路在于遍历，解决searchTree一般都是用pre加遍历的方法的变种。如RecoverSearchTRee
